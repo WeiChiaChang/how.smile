@@ -1,10 +1,13 @@
-# zuckerberg.smile
-> Control Mark Zuckerbergs smile property 
+![](https://upload.cc/i1/2019/11/27/eA8lt5.gif)
 
-Try it yourself here: https://terkelg.github.io/zuckerberg.smile/
+# HOW.smile
+> Let me tell you how to smile
 
-Remember when he tried to convince us he [was human](https://www.youtube.com/watch?v=2qGVVxaosDM)?
+Try it yourself here: https://weichiachang.github.io/zuckerberg.smile/
 
+## About
+
+此專案改寫自 Fork 開源專案 terkelg/zuckerberg.smile
 
 ## License
 
