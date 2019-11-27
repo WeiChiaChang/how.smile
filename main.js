@@ -9,7 +9,7 @@ window.addEventListener('resize', resize);
 
 function resize(){
   width = centerEl.clientWidth;
-  height = width * 0.5625;
+  height = width * 0.6250;
   spriteEl.style.height = `${height}px`;
   spriteEl.style.width = `${width}px`;
   spriteEl.style.backgroundPositionY = `-${height*frame}px`;
