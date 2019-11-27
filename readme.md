@@ -5,9 +5,10 @@
 
 Try it yourself here: https://weichiachang.github.io/zuckerberg.smile/
 
-## About
+## Resource
 
-此專案改寫自 Fork 開源專案 terkelg/zuckerberg.smile
+- 此專案改寫自 Fork 開源專案 terkelg/zuckerberg.smile
+- 影片出處：[HowFun / 罐頭笑聲](https://www.youtube.com/watch?v=J8KiAifnKcU&amp=&t=61s)
 
 ## License
 
